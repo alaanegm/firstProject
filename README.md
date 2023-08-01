@@ -1,2 +1,2 @@
 project testing readme.md
-![alt text](2.jpg)
+![alt text](github.png)
