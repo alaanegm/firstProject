@@ -1,2 +1,2 @@
 project testing readme.md
-![my image](2.jpg)
+![Alt text](2.jpg)
